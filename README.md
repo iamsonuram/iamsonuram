@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sonika Ramesh</h1>
 <h3 align="center">🤖 AI & Machine Learning Enthusiast🌱 Constantly growing and learning💻Exploring the world of AI, Data, and Algorithms📊Data Science |🧠 Artificial Intelligence</h3>
 
-- 🔭 I’m currently working on [ML_Classification_Regression](https://github.com/iamsonuram/ML_Classification_Regression)
+- 🔭 I’m currently working on [Dataprep Wizard](https://github.com/iamsonuram/Dataprep_Wizard)
 
-- 🌱 I’m currently learning **Data Analytics, Data science, Machine Learning Algo's.**
+- 🌱 I’m currently learning **Data science, Machine Learning Algo's.**
 
-- 👨‍💻 All of my projects are available at [https://sonikarameshportfolio.netlify.app/](https://sonikarameshportfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [Sonika_Ramesh_Portfolio](https://sonika-ramesh.netlify.app/)
 
 - 📫 How to reach me **sonupranu04@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1iAkLFNxQixTSpEpJyYnWFL4OlQwbVI-8/view?usp=drive_link](https://drive.google.com/file/d/1iAkLFNxQixTSpEpJyYnWFL4OlQwbVI-8/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
